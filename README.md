@@ -1,22 +1,22 @@
-# [Your Project Title Here]
+# Traffic Flow Forecasting
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/Metaphysicist1/Enginering-Project]
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Our project aims to forecast traffic flow using time series data. We will explore various models form different classes and purpouses to determine the best approach for accurate predictions.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Time Series Forecasting
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** LSTM (Long Short-Term Memory) Neural Network
+- **Evaluation Metric:** MSE (Mean Squared Error) RMSE (Root Mean Squared Error)
+- **Result:** 0.80 (RMSE)
 
 ## Documentation
 
