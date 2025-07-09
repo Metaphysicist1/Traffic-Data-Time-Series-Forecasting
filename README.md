@@ -28,4 +28,5 @@ Time Series Forecasting
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![image](https://github.com/user-attachments/assets/16cf2e08-6bfc-4b00-aa9c-89286a4dd661)
+
