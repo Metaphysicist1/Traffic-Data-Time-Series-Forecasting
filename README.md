@@ -28,5 +28,5 @@ Time Series Forecasting
 
 ## Cover Image
 
-![image](cover_image)
+![image](cover_image.png)
 
