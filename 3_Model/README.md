@@ -1,13 +1,3 @@
-# Model Definition and Evaluation
+# Models Evaluation
 
-## Model Used:
-- GCN_LSTM
-- GCN_GRU
-- GCT_TFT
-- LGBM
-- GCN_NBEATS
-- XGBoost
-- Llama
-- ASTGCN
-- CNN
-- Chronos
+![image](../evaluation-table.png)
