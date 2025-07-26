@@ -6,25 +6,20 @@
 
 ## Description
 
-Our project aims to forecast traffic flow using time series data. We will explore various models form different classes and purpouses to determine the best approach for accurate predictions.
+Our project aims to forecast traffic flow using time series data. We examine various models from different classes and purposes to determine the most effective approach for accurate predictions.
 
 ### Task Type
 
-Time Series Forecasting
+Regression
 
 ### Results Summary
 
 - **Best Model:** ASTGCN
 - **Evaluation Metric:** MSE (Mean Squared Error) and RMSE (Root Mean Squared Error)
-- **Result:** for MSE: 14.6, for RMSE:15.15
+- **Result:**
+  - MSE: **14.6%**  
+  - RMSE: **15.15%**
 
-## Documentation
-
-1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation)**
-5. **[Presentation](4_Presentation/README.md)**
 
 ## Cover Image
 
