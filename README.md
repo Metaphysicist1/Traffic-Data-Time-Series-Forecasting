@@ -14,9 +14,9 @@ Time Series Forecasting
 
 ### Results Summary
 
-- **Best Model:** LSTM (Long Short-Term Memory) Neural Network
-- **Evaluation Metric:** MSE (Mean Squared Error) RMSE (Root Mean Squared Error)
-- **Result:** 0.80 (RMSE)
+- **Best Model:** XGBoost
+- **Evaluation Metric:** MSE (Mean Squared Error) and RMSE (Root Mean Squared Error)
+- **Result:** [to be added by Arman]
 
 ## Documentation
 
