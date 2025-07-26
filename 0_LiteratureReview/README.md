@@ -4,7 +4,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 **Summary of Each Work**:
 
-- **Source 1**: Attention-Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting
+- **Source 1**: [Attention-Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting]
 
   - [Link](AGCNT.pdf) 
   - **Objective**: Improve traffic flow forecasting accuracy by addressing the dynamic spatial–temporal correlations in traffic data.
@@ -14,7 +14,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 - **Source 2**: [GRAPH NEURAL NETWORKS FOR TRAFFIC FORECASTING]
 
-  - **[Link](HNTF.pdf)**
+  - **[Link](GNTF.pdf)**
   - **Objective**: Overcome the shortcomings of previous models that struggle with nonlinear and complex patterns in traffic flow.
   - **Methods**: Propose a novel model that integrates spatial and temporal information to better predict traffic flow.
   - **Outcomes**: Showcase the model's potential for real-world traffic management and planning applications.
