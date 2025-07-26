@@ -1,3 +1,13 @@
 # Model Definition and Evaluation
 
-**[Notebook](model_definition_evaluation)**
+## Model Used:
+- GCN_LSTM
+- GCN_GRU
+- GCT_TFT
+- LGBM
+- GCN_NBEATS
+- XGBoost
+- Llama
+- ASTGCN
+- CNN
+- Chronos
