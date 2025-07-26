@@ -14,9 +14,9 @@ Time Series Forecasting
 
 ### Results Summary
 
-- **Best Model:** XGBoost
+- **Best Model:** ASTGCN
 - **Evaluation Metric:** MSE (Mean Squared Error) and RMSE (Root Mean Squared Error)
-- **Result:** [to be added by Arman]
+- **Result:** for MSE: 14.6, for RMSE:15.15
 
 ## Documentation
 
